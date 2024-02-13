@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '7671'
     url: http://www.gutenberg.org/2009/agents/7671
     wikipedia: https://en.wikipedia.org/wiki/Walter_S._Rogers
+covers:
+- cover_type: archival
+  image_path: 72705-h/images/cover.jpg
 creator:
   author:
     agent_name: Appleton, Victor
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/267
     wikipedia: https://en.wikipedia.org/wiki/Victor_Appleton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72705#Tom-Swift-and-his-great-oil-gusher-b-or-The-treasure-of-Goby-Farm
 gutenberg_issued: '2024-01-13'
 gutenberg_type: Text
 identifiers:
