@@ -1,0 +1,41 @@
+_repo: Tom-Swift-and-his-great-oil-gusher-b-or-The-treasure-of-Goby-Farm_72705
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S.
+    alias: Rogers, W. S.
+    birthdate: 1871
+    deathdate: 1937
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+    wikipedia: https://en.wikipedia.org/wiki/Walter_S._Rogers
+creator:
+  author:
+    agent_name: Appleton, Victor
+    gutenberg_agent_id: '267'
+    url: http://www.gutenberg.org/2009/agents/267
+    wikipedia: https://en.wikipedia.org/wiki/Victor_Appleton
+description: ''
+gutenberg_issued: '2024-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72705'
+language: en
+pgterms:marc904: https://archive.org/details/tom-swift-and-his-great-oil-gusher/page/n1/mode/2up
+pgterms:marc905: 20240105062239appleton
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Delphine Lettau, Cindy Beyer & the online Distributed Proofreaders
+  Canada team at http://www.pgdpcanada.net
+publication_note: '  $aNew York, NY :$bGrosset & Dunlap Publishers, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcsh 'Swift, Tom (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Oil fields -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: 'Tom Swift and his great oil gusher : $b or, The treasure of Goby Farm'
+url: http://www.gutenberg.org/ebooks/72705
